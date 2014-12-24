@@ -13,4 +13,5 @@ Start server:
 Run Webpack dev server:  
 `npm run bundle`  
 
-Check you console ;)
+Check you console on the:  
+http://localhost:8080/webpack-dev-server/
